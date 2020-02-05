@@ -1,17 +1,11 @@
-Markdown 語法
- 
-Syntax highlighted code block
+## Welcome to Kimieno
 
-# Header 1
-## Header 2
-### Header 3
+[PiTT on Google Play](https://play.google.com/store/apps/details?id=com.ihad.ptt) 
 
-- Bulleted
-- List
+[PiTT on App Store](https://itunes.apple.com/app/id1345822611) 
 
-1. Numbered
-2. List
+[PiTT on Facebook](https://www.facebook.com/Kimieno.Pitt/)
 
-**Bold** and _Italic_ and `Code` text
+[PiTT on TestFlight](https://testflight.apple.com/join/TDrhSSs0)
 
-[Link](url) and ![Image](src)
+[PiTT iOS Manual](https://kimieno.github.io/ios.pitt/)
