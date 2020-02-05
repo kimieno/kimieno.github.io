@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Kimieno
 
-You can use the [editor on GitHub](https://github.com/kimieno/pitt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[PiTT on Google Play](https://play.google.com/store/apps/details?id=com.ihad.ptt) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[PiTT on App Store](https://itunes.apple.com/app/id1345822611) 
 
-### Markdown
+[PiTT on Facebook](https://www.facebook.com/Kimieno.Pitt/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[PiTT on TestFlight](https://testflight.apple.com/join/TDrhSSs0)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimieno/pitt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[PiTT iOS Manual](https://kimieno.github.io/ios.pitt/)
